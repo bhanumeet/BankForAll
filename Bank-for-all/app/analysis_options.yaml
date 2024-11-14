@@ -1,0 +1,11 @@
+include: package:lint/analysis_options.yaml
+
+linter:
+  rules:
+    sort_constructors_first: false
+    lines_longer_than_80_chars: false
+    asset_not_string: false
+    prefer_double_quotes: false
+    prefer_const_literals_to_create_immutables: false
+    prefer_interpolation_to_compose_strings: false
+    prefer_if_elements_to_conditional_expressions: false
