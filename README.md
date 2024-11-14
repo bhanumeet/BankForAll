@@ -39,7 +39,7 @@ To install and set up **Bank for All** for local development or testing:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/bank_for_all.git
+   git clone https://github.com/bhanumeet/BankForAll.git
    cd bank_for_all
    ```
 
